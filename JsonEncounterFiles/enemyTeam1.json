@@ -1,0 +1,58 @@
+{
+  "partyMembers": [
+    {
+      "imageName": "evilCharacter",
+      "name": "Evil Character",
+      "physAtk": 10,
+      "physDef": 10,
+      "elemAtk": 10,
+      "elemDef": 10,
+      "maxHp": 100,
+      "defaultDamageType": 0
+    },
+    {
+      "imageName": "evilCharacter",
+      "name": "Evil Character 2",
+      "physAtk": 10,
+      "physDef": 10,
+      "elemAtk": 10,
+      "elemDef": 10,
+      "maxHp": 100,
+      "defaultDamageType": 0
+    },
+    {
+      "imageName": "evilCharacter",
+      "name": "Evil Character 3",
+      "physAtk": 10,
+      "physDef": 10,
+      "elemAtk": 10,
+      "elemDef": 10,
+      "maxHp": 100,
+      "defaultDamageType": 0
+    },
+    {
+      "imageName": "evilCharacter",
+      "name": "Evil Character 4",
+      "physAtk": 10,
+      "physDef": 10,
+      "elemAtk": 10,
+      "elemDef": 10,
+      "maxHp": 100,
+      "defaultDamageType": 1
+    }
+  ],
+  "partyTypes": [
+    {
+      "type": "enemy"
+    },
+    {
+      "type": "enemy"
+    },
+    {
+      "type": "enemy"
+    },
+    {
+      "type": "enemy"
+    }
+  ]
+}

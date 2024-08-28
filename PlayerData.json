@@ -1,0 +1,56 @@
+{
+  "partyMembers": {
+    "partyMembers": [
+      {
+        "imageName": "sonic",
+        "name": "Sonic the Hedgehog",
+        "physAtk": 10,
+        "physDef": 10,
+        "elemAtk": 10,
+        "elemDef": 10,
+        "maxHp": 100,
+        "maxMana": 50,
+        "defaultDamageType": 1
+      },
+      {
+        "imageName": "metalSonic",
+        "name": "Metal Sonic",
+        "physAtk": 10,
+        "physDef": 10,
+        "elemAtk": 10,
+        "elemDef": 10,
+        "maxHp": 100,
+        "maxMana": 50,
+        "defaultDamageType": 2
+      },
+      {
+        "imageName": "metalSonic",
+        "name": "Jumping Jimbo Lol",
+        "physAtk": 10,
+        "physDef": 10,
+        "elemAtk": 10,
+        "elemDef": 10,
+        "maxHp": 1000,
+        "maxMana": 500,
+        "defaultDamageType": 2
+      }
+    ],
+    "partyTypes": [
+      {
+        "type": "partyMember"
+      },
+      {
+        "type": "partyMember"
+      },
+      {
+        "type": "partyMember"
+      }
+    ]
+  },
+  "playerSprite": {
+    "x": 299,
+    "y": 170,
+    "h": 100,
+    "w": 100
+  }
+}
